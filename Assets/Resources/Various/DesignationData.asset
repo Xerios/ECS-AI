@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1cf7522be0403140910ceba289f3148, type: 3}
+  m_Name: DesignationData
+  m_EditorClassIdentifier: 
+  Items:
+  - JobId: 0
+    Data: {fileID: 11400000, guid: c42479a3a61db4842b335cde6fc4e585, type: 2}
+  - JobId: -1
+    Data: {fileID: 11400000, guid: c42479a3a61db4842b335cde6fc4e585, type: 2}
+  - JobId: 1
+    Data: {fileID: 11400000, guid: 4a7db7a0bf501164b961cd8f3c2d5bca, type: 2}
+  - JobId: 1
+    Data: {fileID: 11400000, guid: 65cfaa625e68165488a64592c39f5079, type: 2}
+  - JobId: 0
+    Data: {fileID: 11400000, guid: df887e97b87392448bb0572c4031e3ef, type: 2}
+  - JobId: 1
+    Data: {fileID: 11400000, guid: df887e97b87392448bb0572c4031e3ef, type: 2}
+  - JobId: 0
+    Data: {fileID: 11400000, guid: 901762a37b10f4d46a474f523f2cd935, type: 2}
+  - JobId: 1
+    Data: {fileID: 11400000, guid: 901762a37b10f4d46a474f523f2cd935, type: 2}
+  Jobs:
+  - Title: Fighters
+  - Title: Workers
+  DefaultMindsets:
+  - {fileID: 11400000, guid: 17b24b031782bf64bad793b1308d0fc8, type: 2}
+  - {fileID: 11400000, guid: 901762a37b10f4d46a474f523f2cd935, type: 2}
+  - {fileID: 11400000, guid: 7a397704cd5969a4ab41272c1a0ddf62, type: 2}
